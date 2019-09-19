@@ -1,0 +1,25 @@
+body {
+  color: white !important;
+}
+
+section {
+  background-color: $strong-blue;
+}
+
+.section-title {
+    color: white;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.button {
+  margin: 20px;
+  display: inline-block;
+  float: right;
+}
+
+.sponsor {
+  margin: auto;
+}

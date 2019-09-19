@@ -1,0 +1,66 @@
+# ============================================================================ #
+# Speakers
+# ============================================================================ #
+
+title: Oradores
+description:
+
+button:
+  text: Ser Orador
+  mail: pedagogico@cesium.di.uminho.pt
+  subject: "[CodeWeek] Interesse em ser orador"
+
+list:
+  - name: Bruno Cancelinha
+    photo: cientista.jpg
+    role: Vice-Presidente
+    company: CeSIUM
+    url:
+    twitter:
+    linkedin:
+    github: 9thScientist
+
+  - name: Daniel Tinoco
+    photo: tinoco.jpg
+    role: Centro de Apoio ao Open Source
+    company: CeSIUM
+    url:
+    twitter:
+    linkedin:
+    github: 0urobor0s
+
+  - name: Eduardo Barbosa
+    photo: herulume.jpg
+    role: Departamento Comunicação
+    company: CeSIUM
+    url: herulu.me
+    twitter: herulume
+    linkedin: herulume
+    github: herulume
+
+  - name: José Resende
+    photo: resende.jpg
+    role: Centro de Apoio ao Open Source
+    company: CeSIUM
+    url: zepedroresende.github.io
+    twitter: Resende_666
+    linkedin: jos%C3%A9-pedro-resende-216b24138/
+    github: ZePedroResende
+
+  - name: Nelson Estevão
+    photo: estevao.jpg
+    role: Departamento Pedagógico
+    company: CeSIUM
+    url: estevao.xyz
+    twitter: nelsonmestevao
+    linkedin: nelsonmestevao
+    github: nelsonmestevao
+
+  - name: Nuno Santos
+    photo: nunosantos.jpg
+    role: Founder / CEO / CTO
+    company: Imaginando
+    url: www.imaginando.pt
+    twitter:
+    linkedin: sinosoidal
+    github:

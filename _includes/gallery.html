@@ -1,0 +1,39 @@
+<section id="gallery" class="section-padding">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title-header text-center">
+          <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">{{ site.data.gallery.title }}</h1>
+          <span class="wow fadeInDown" data-wow-delay="0.2s">{{ site.data.gallery.description | markdownify }}</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {% for picture in site.data.gallery.pictures %}
+      <div class="col-md-6 col-sm-6 col-lg-4">
+        <div class="gallery-box">
+          <div class="img-thumb">
+            <img class="img-fluid" src="assets/img/gallery/{{ picture }}" alt="">
+          </div>
+          <div class="overlay-box text-center">
+            <a class="lightbox" href="assets/img/gallery/{{ picture }}">
+              <i class="fas fa-plus"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    {% if site.data.gallery.button.link %}
+    <div class="row justify-content-center mt-3">
+      <div class="col-xs-12">
+        <a href="{{ site.data.gallery.button.link }}" class="btn btn-common">{{ site.data.gallery.button.text }}</a>
+      </div>
+    </div>
+    {% endif %}
+
+  </div>
+</section>

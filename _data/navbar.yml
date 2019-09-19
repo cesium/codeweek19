@@ -1,0 +1,31 @@
+# ============================================================================ #
+# Navbar
+# ============================================================================ #
+
+- name: Home
+  link: "#header-wrap"
+
+# - name: Sobre
+#   link: "#about"
+
+- name: Calendário
+  link: "#schedules"
+
+- name: Oradores
+  link: "#team"
+
+- name: Museu
+  link: "#gallery"
+
+
+- name: Torneio
+  link: "#pricing"
+
+- name: CoderDojo
+  link: "#coderdojo"
+
+- name: Parceiros
+  link: "#sponsors"
+
+# - name: Contacto
+#   link: "#contact-map"

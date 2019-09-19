@@ -1,0 +1,26 @@
+<section id="coderdojo" class="section-padding">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section-title-header text-center">
+          <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">{{ site.data.coderdojo.title }}</h1>
+          <p class="wow fadeInDown" data-wow-delay="0.2s">{{ site.data.coderdojo.name }}</p>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-6 col-xs-12 wow fadeInRight" data-wow-delay="0.3s">
+        <div class="video">
+          {% for picture in site.data.coderdojo.pictures %}
+          <img class="img-fluid coderdojo-braga" src="assets/img/coderdojo/{{ picture }}" alt="">
+          {% endfor %}
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.3s">
+          {{ site.data.coderdojo.description | markdownify }}
+      </div>
+        <div class="description col-lg-12 wow fadeInRight center" data-wow-delay="0.3s">
+          <h2 class="intro-title"></h2>
+          <a class="btn btn-common btn-rm" href="{{ site.data.coderdojo.registrations }}">PARTICIPAR</a>
+        </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,24 @@
+# ============================================================================ #
+# Sponsors
+# ============================================================================ #
+
+title: Parceiros
+description:
+
+button:
+  text: Ser Parceiro
+  mail: pedagogico@cesium.di.uminho.pt
+  subject: "[CodeWeek] Interesse em patrocínio"
+
+list:
+  - company: Escola de Engenharia
+    logo: eeng.png
+    url: www.eng.uminho.pt
+
+  - company: Hackathonners
+    logo: hackathonners.png
+    url: hackathonners.org
+
+  - company: Instituto Português do Desporto e da Juventude
+    logo: ipdj.png
+    url: www.ipdj.pt
