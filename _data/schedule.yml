@@ -6,6 +6,22 @@ title: Calendário
 description: Vê as atividades que temos preparadas para ti
 
 calendar:
+  - name: Sábado
+    tag: saturday
+    date: 12 de outubro
+    events:
+      - name: CoderDojo Braga
+        tag: coderdojo
+        time: 10h00 - 12h30
+        speaker:
+        photo: coderdojo.png
+        description: |
+          O Coderdojo Braga é um movimento aberto e sem fins lucrativos
+          para ensinar jovens dos 7 aos 17 a programar. Caso tenhas interesse
+          em informática, aparece ou partilha!
+        location: gnration
+        registration: mailto:info@gnration.pt?subject=[CoderDojo Braga] Interesse em participar na sessão de 20 de Outubro
+
 
   - name: Segunda-Feira
     tag: monday
@@ -102,19 +118,3 @@ calendar:
     date: 18 de outubro
     events:
       
-
-  - name: Sábado
-    tag: saturday
-    date: 19 de outubro
-    events:
-      - name: CoderDojo Braga
-        tag: coderdojo
-        time: 10h00 - 12h30
-        speaker:
-        photo: coderdojo.png
-        description: |
-          O Coderdojo Braga é um movimento aberto e sem fins lucrativos
-          para ensinar jovens dos 7 aos 17 a programar. Caso tenhas interesse
-          em informática, aparece ou partilha!
-        location: gnration
-        registration: mailto:info@gnration.pt?subject=[CoderDojo Braga] Interesse em participar na sessão de 20 de Outubro
