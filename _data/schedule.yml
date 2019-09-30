@@ -6,143 +6,9 @@ title: Calendário
 description: Vê as atividades que temos preparadas para ti
 
 calendar:
-  - name: Fim de Semana
-    tag: weekend
-    date: 13 e 14 de outubro
-    events:
-      - name: Competição de Engenharia do Minho
-        tag: cem
-        time: 8h30 - 12h30
-        photo: cem.png
-        description: |
-          A Competição de Engenharia do Minho é uma maratona de 24 horas onde
-          uma equipa multidisciplinar de 5 estudantes de Engenharia
-          desenvolve um produto ou serviço inovador que dê resposta a um
-          problema atual no funcionamento da Universidade do Minho. Esta
-          solução será no final apresentada a um painel multidisciplinar que
-          irá distinguir equipas vencedoras.
-        location: Complexo Desportivo de Azurém
-        registration: https://bit.ly/2POzcAZ
-
-  - name: Segunda-feira
-    tag: monday
-    date: 15 de outubro
-    events:
-      - name: UNIX Shell, the best IDE
-        tag: shell
-        time: 16h00 - 17h00
-        speaker: Eduardo Barbosa & Nelson Estevão
-        photo: unixshell.png
-        description: |
-          És novo nos sistemas Unix e ainda não consegues trabalhar com a
-          shell, pior, nem sequer sabes o que é isso? Não te preocupes, o
-          CeSIUM encarrega-se de te ensinar as melhores ferramentas para tornar
-          o teu trabalho mais produtivo e cómodo. Participa e liberta todo o
-          poder da tua máquina.
-        location: Campus de Gualtar, Edifício 7 - 1.01
-        registration: http://www.cesium.di.uminho.pt/activities/35
-
-      - name: Talk de Segurança
-        tag: security
-        time: 17h30 - 18h00
-        speaker: Daniel Tinoco & José Resende
-        photo: seguranca.png
-        description: |
-          Que tal uma sessão sobre cibersegurança? Junta-te a nós para
-          aprenderes os básicos de sistemas de segurança e como os hackers
-          exploram as vulnerabilidades.
-        location: Campus de Gualtar, Edifício 7 - 1.01
-        registration: http://www.cesium.di.uminho.pt/activities/36
-
-  - name: Terça-feira
-    tag: tuesday
-    date: 16 de outubro
-    events:
-      - name: Constrói a tua própria WebExtension
-        tag: webext
-        time: 17h00 - 18h00
-        speaker: Bruno Cancelinha
-        photo: webext.png
-        description: |
-          O Firefox começou a suportar WebExtensions, tornando fácil portar
-          extensões para outros browsers. Vem aprender a tomar partido desta
-          nova tecnologia e constrói a tua própria extensão.
-        location: Campus de Gualtar, Edifício 7 - 1.01
-        registration: http://www.cesium.di.uminho.pt/activities/37
-
-  - name: Quarta-feira
-    tag: wednesday
-    date: 17 de outubro
-    events:
-      - name: Torneio de FIFA 19
-        tag: fifa
-        time: 15h00 - 18h00
-        photo: fifa19.png
-        description: |
-          Junta-te a nós para um torneio de FIFA 19, onde existirão várias
-          estações e o vencedor, além de receber uma T-Shirt do CeSIUM, leva
-          para casa uma garrafa de Jeropiga. Durante o torneio, existirá uma
-          Happy Hour com finos a 80 cêntimos para sócios.
-
-          Consulta o regulamento [aqui](assets/docs/2018-09-29_codeweek18_rules_fifa19.pdf).
-        location: Gamers Academy
-        registration: http://www.cesium.di.uminho.pt/activities/38
-
-      - name: Meetup Hacktoberfest
-        tag: hackathonners
-        time: 18h00 - 21h00
-        speaker: Hackathonners
-        photo: hackathonners.png
-        description:
-        location: Sala de Conferências, gnration
-        registration: http://www.cesium.di.uminho.pt/activities/42
-
-  - name: Quinta-feira
-    tag: active
-    date: 18 de outubro
-    events:
-      - name: Pérolas no Open-Source
-        tag: gems
-        time: 14h00 - 15h00
-        speaker: José Resende & Daniel Tinoco
-        photo: gems.png
-        description: |
-          O CeSIUM é um membro ativo da comunidade Open-Source tanto a
-          contribuir para projectos como criando os seus próprios. Aproveita
-          para conheceres os mais recentes projectos open-source em
-          desenvolvimento e assim saberes onde a tua próxima contribuição devia
-          ser.
-        location: Campus de Gualtar, Edifício 7 - 1.01
-        registration: http://www.cesium.di.uminho.pt/activities/39
-
-      - name: A importância do tempo de resposta em sistemas interactivos
-        tag: arduino
-        time: 17h00 - 18h00
-        speaker: Nuno Santos
-        photo: arduino.png
-        description: |
-          Em sistemas interativos o tempo de resposta representa uma componente
-          da experiência. Nesta sessão, este tema será abordado de uma forma
-          teórica com vários exemplos do dia a dia bem como de forma prática
-          recorrendo a um Arduino e um sistema de sintetizador musical em tempo
-          real.
-        location: Campus de Gualtar, Edifício 7 - 1.01
-        registration: http://www.cesium.di.uminho.pt/activities/40
-
-      - name: Geek Night
-        tag: geek
-        time: 21h00 - 1h00
-        speaker:
-        photo: geeknight.png
-        description: |
-          Talks pertinentes a informática, amostragem de curiosidades relativas
-          a engenharia e as ciências da computação.
-        location: Bar Juno
-        registration:
-
   - name: Sábado
     tag: saturday
-    date: 20 de outubro
+    date: 12 de outubro
     events:
       - name: CoderDojo Braga
         tag: coderdojo
@@ -155,3 +21,100 @@ calendar:
           em informática, aparece ou partilha!
         location: gnration
         registration: mailto:info@gnration.pt?subject=[CoderDojo Braga] Interesse em participar na sessão de 20 de Outubro
+
+
+  - name: Segunda-Feira
+    tag: monday
+    date: 14 de outubro
+    events:
+      - name: Code Combat
+        tag: code
+        time: 11h00 - 13h00
+        speaker: A & B
+        photo: unixshell.png
+        description: |
+          Descrição interessante..
+        location: Campus de Gualtar, Edifício 7 - 1.01
+        registration: http://www.cesium.di.uminho.pt/activities/35
+
+      - name: Shell Basics
+        tag: shell
+        time: 17h30 - 18h00
+        speaker: A & B
+        photo: unixshell.png
+        description: |
+          Descrição interessante.
+        location: Campus de Gualtar, Edifício 7 - 1.01
+        registration: http://www.cesium.di.uminho.pt/activities/36
+
+  - name: Terça-Feira
+    tag: tuesday
+    date: 15 de outubro
+    events:
+      - name: Palestra Humanitária
+        tag: unknown
+        time: 16h00 - 17h00
+        speaker: A
+        photo: webext.png
+        description: |
+          Descrição interessante.
+        location: Campus de Gualtar, Edifício 7 - 1.01
+        registration: http://www.cesium.di.uminho.pt/activities/37
+
+      - name: Geek Night
+        tag: geek
+        time: 21h00 - 1h00
+        speaker:
+        photo: geeknight.png
+        description: |
+          Talks pertinentes a informática, amostragem de curiosidades relativas
+          a engenharia e as ciências da computação.
+        location: Bar Juno
+        registration:
+
+  - name: Quarta-Feira
+    tag: wednesday
+    date: 16 de outubro
+    events:
+      - name: Torneio de FIFA 19
+        tag: fifa
+        time: 14h00
+        photo: fifa19.png
+        description: |
+          Junta-te a nós para um torneio de FIFA 19, onde existirão várias
+          estações e o vencedor, além de receber uma T-Shirt do CeSIUM, leva
+          para casa uma garrafa de Jeropiga. Durante o torneio, existirá uma
+          Happy Hour com finos a 80 cêntimos para sócios.
+
+          Consulta o regulamento [aqui](assets/docs/2018-09-29_codeweek18_rules_fifa19.pdf).
+        location: Gamers Academy
+        registration: http://www.cesium.di.uminho.pt/activities/38
+      
+      - name: Meetup Hacktoberfest
+        tag: hackathonners
+        time: 18h00 - 21h00
+        speaker: Hackathonners
+        photo: hackathonners.png
+        description:
+        location: Sala de Conferências, gnration
+        registration: http://www.cesium.di.uminho.pt/activities/42 
+
+  - name: Quinta-Feira
+    tag: active
+    date: 17 de outubro
+    events:
+      - name: Sessão de Estudo de PF
+        tag: pf
+        time: 16h00
+        speaker: 
+        photo: gems.png
+        description: |
+          Descrição interessante.
+        location: Campus de Gualtar, Edifício 7 - 1.01
+        registration: http://www.cesium.di.uminho.pt/activities/39
+
+  - name: Sexta-Feira
+    tag: friday
+    date: 18 de outubro
+    events:
+      
