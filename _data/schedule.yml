@@ -12,7 +12,7 @@ calendar:
     events:
       - name: CoderDojo Braga
         tag: coderdojo
-        time: 10h00 - 12h30
+        time: 10h00 - 12h00
         speaker:
         photo: coderdojo.png
         description: |
@@ -30,31 +30,31 @@ calendar:
       - name: Code Combat
         tag: code
         time: 11h00 - 13h00
-        speaker: A & B
+        speaker:
         photo: unixshell.png
         description: |
           Descrição interessante..
-        location: Campus de Gualtar, Edifício 7 - 1.01
+        location: Campus de Gualtar, Edifício 7
         registration: http://www.cesium.di.uminho.pt/activities/35
 
       - name: Shell Basics
         tag: shell
-        time: 17h30 - 18h00
-        speaker: A & B
+        time: 17h00 
+        speaker: Jośe João Almeida
         photo: unixshell.png
         description: |
           Descrição interessante.
-        location: Campus de Gualtar, Edifício 7 - 1.01
+        location: Campus de Gualtar, Edifício 7
         registration: http://www.cesium.di.uminho.pt/activities/36
 
   - name: Terça-Feira
     tag: tuesday
     date: 15 de outubro
     events:
-      - name: Palestra Humanitária
-        tag: unknown
-        time: 16h00 - 17h00
-        speaker: A
+      - name: Palestra Estágios Verão
+        tag: internship
+        time: 17h00
+        speaker: 
         photo: webext.png
         description: |
           Descrição interessante.
@@ -63,7 +63,7 @@ calendar:
 
       - name: Geek Night
         tag: geek
-        time: 21h00 - 1h00
+        time: 21h00
         speaker:
         photo: geeknight.png
         description: |
@@ -89,15 +89,6 @@ calendar:
           Consulta o regulamento [aqui](assets/docs/2018-09-29_codeweek18_rules_fifa19.pdf).
         location: Gamers Academy
         registration: http://www.cesium.di.uminho.pt/activities/38
-      
-      - name: Meetup Hacktoberfest
-        tag: hackathonners
-        time: 18h00 - 21h00
-        speaker: Hackathonners
-        photo: hackathonners.png
-        description:
-        location: Sala de Conferências, gnration
-        registration: http://www.cesium.di.uminho.pt/activities/42 
 
   - name: Quinta-Feira
     tag: active
@@ -110,7 +101,7 @@ calendar:
         photo: gems.png
         description: |
           Descrição interessante.
-        location: Campus de Gualtar, Edifício 7 - 1.01
+        location: Campus de Gualtar, Edifício 7
         registration: http://www.cesium.di.uminho.pt/activities/39
 
   - name: Sexta-Feira
