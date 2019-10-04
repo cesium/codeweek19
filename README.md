@@ -31,7 +31,7 @@ local machine for development and testing purposes.
 
 ### Development
 
-1. `cd <location of codeweek18 repo>`
+1. `cd <location of codeweek19 repo>`
 2. `jekyll serve`
 3. Navigate to <http://localhost:4000>
 

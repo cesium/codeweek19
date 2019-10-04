@@ -11,13 +11,13 @@ button:
   subject: "[CodeWeek] Interesse em patrocínio"
 
 list:
-  - company: Escola de Engenharia
-    logo: eeng.png
-    url: www.eng.uminho.pt
+  #- company: Escola de Engenharia
+  #  logo: eeng.png
+  #  url: www.eng.uminho.pt
 
-  - company: Hackathonners
-    logo: hackathonners.png
-    url: hackathonners.org
+  #- company: Hackathonners
+  #  logo: hackathonners.png
+  #  url: hackathonners.org
 
   - company: Instituto Português do Desporto e da Juventude
     logo: ipdj.png
