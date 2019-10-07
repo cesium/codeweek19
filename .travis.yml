@@ -28,4 +28,4 @@ cache:
 
 script:
   - bundle exec rake test
-  - rspec
+  - bundle exec rspec
