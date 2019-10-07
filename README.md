@@ -15,7 +15,7 @@ Code Week at [University of Minho][uminho] is an initiative, organized by
 [CeSIUM][cesium], which aims to bring coding and digital literacy to everybody
 in a fun and engaging way.
 
-## Getting Started
+## Getting Started [![Build Status](https://travis-ci.com/cesium/codeweek19.svg?branch=master)](https://travis-ci.com/cesium/codeweek19)
 
 These instructions will get you a copy of the project up and running on your
 local machine for development and testing purposes.

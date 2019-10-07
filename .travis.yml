@@ -1,0 +1,30 @@
+dist: bionic
+
+language: ruby
+
+rvm:
+  - 2.6.5
+
+services:
+  - xvfb
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+    - firefox-geckodriver
+
+sudo: false
+
+cache: 
+  - bundler
+  directories:
+    - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+
+script:
+  - bundle exec rake test
+  - xvfb-run rspec
