@@ -11,6 +11,7 @@ services:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - MOZ_HEADLESS=1
 
 addons:
   apt:
@@ -27,4 +28,4 @@ cache:
 
 script:
   - bundle exec rake test
-  - xvfb-run rspec
+  - rspec
