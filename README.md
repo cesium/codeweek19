@@ -32,7 +32,7 @@ local machine for development and testing purposes.
 ### Development
 
 1. `cd <location of codeweek19 repo>`
-2. `jekyll serve`
+2. `bundle exec jekyll serve`
 3. Navigate to <http://localhost:4000>
 
 ## Contributing
@@ -45,4 +45,3 @@ the process for submitting pull requests to us.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt)
 file for details.
-
