@@ -20,8 +20,8 @@ addons:
 
 sudo: false
 
-cache: 
-  - bundler
+cache:
+  bundler: true
   directories:
     - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
