@@ -3,6 +3,7 @@ require 'capybara/rspec'
 require 'rack/jekyll'
 require 'rack/test'
 require 'pry'
+require 'selenium-webdriver'
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|
@@ -20,4 +21,17 @@ RSpec.configure do |config|
   Capybara.app = Rack::Jekyll.new(force_build: true)
 
   Capybara.server = :webrick
+
+  Capybara.register_driver :firefox_headless do |app|
+    options = Selenium::WebDriver::Firefox::Options.new
+    options.args << '--headless'
+
+    Capybara::Selenium::Driver.new(
+      app,
+      browser: :firefox,
+      options: options
+    )
+  end
+
+  Capybara.javascript_driver = :firefox_headless
 end
