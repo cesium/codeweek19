@@ -27,7 +27,7 @@ calendar:
     date: 14 de outubro
     events:
       - name: Code Combat - Sessão 1
-        tag: code
+        tag: code1
         time: 11h00 - 12h00
         speaker:
         photo: unixshell.png
@@ -36,11 +36,11 @@ calendar:
           objetivo é introduzir os alunos à programação imperativa e 
           orientada aos objetos, usando JavaScript. \\
           Não te esqueças do teu computador.
-        location: TBA
+        location: To Be Announced 
         registration: https://cesium.di.uminho.pt/activities/66
 
       - name: Code Combat - Sessão 2
-        tag: code
+        tag: code2
         time: 12h00 - 13h00
         speaker:
         photo: unixshell.png
@@ -49,7 +49,7 @@ calendar:
           objetivo é introduzir os alunos à programação imperativa e 
           orientada aos objetos, usando JavaScript. \\
           Não te esqueças do teu computador.
-        location: TBA
+        location: To Be Announced 
         registration: https://cesium.di.uminho.pt/activities/67
 
       - name: Shell Basics
@@ -79,7 +79,7 @@ calendar:
           conhecer a experiência de alguns alunos de MiEI! Poderás 
           perceber quais as principais vantagens, bem como as ferramentas 
           e os métodos de desenvolvimento de software utilizados pelas empresas.
-        location: TBA
+        location: To Be Announced 
         registration: https://cesium.di.uminho.pt/activities/69
 
   - name: Quarta-Feira
@@ -110,7 +110,7 @@ calendar:
           Se ainda tens dúvidas sobre recursividade, pattern matching 
           ou qualquer outro tema lecionado na unidade curricular de 
           Programação Funcional, aparece nesta sessão de estudo.
-        location: TBA
+        location: To Be Announced 
         registration: https://cesium.di.uminho.pt/activities/71
 
       - name: Geek Night  
