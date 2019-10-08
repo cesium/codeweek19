@@ -123,9 +123,3 @@ calendar:
           num ambiente descontraído e rodeado por boa companhia.
         location: Bar Juno
         registration: https://cesium.di.uminho.pt/activities/72
-
-  - name: Sexta-Feira
-    tag: friday
-    date: 18 de outubro
-    events:
-      
