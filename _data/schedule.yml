@@ -16,9 +16,8 @@ calendar:
         speaker:
         photo: coderdojo.png
         description: |
-          O Coderdojo Braga é um movimento aberto e sem fins lucrativos
-          para ensinar jovens dos 7 aos 17 a programar. Caso tenhas interesse
-          em informática, aparece ou partilha!
+          O CoderDojo Braga é um movimento aberto e sem fins lucrativos 
+          para ensinar jovens dos 7 aos 17 anos a programar.
         location: gnration
         registration: mailto:info@gnration.pt?subject=[CoderDojo Braga] Interesse em participar na sessão de 20 de Outubro
 
@@ -33,18 +32,22 @@ calendar:
         speaker:
         photo: unixshell.png
         description: |
-          Descrição interessante..
-        location: Campus de Gualtar, Edifício 7
+          Competição de programação entre os alunos, de forma lúdica, cujo 
+          objetivo é introduzir os alunos à programação imperativa e 
+          orientada aos objetos, usando JavaScript.
+        location: TBA
         registration: http://www.cesium.di.uminho.pt/activities/35
 
       - name: Shell Basics
         tag: shell
         time: 17h00 
-        speaker: Jośe João Almeida
+        speaker: José João Almeida
         photo: unixshell.png
         description: |
-          Descrição interessante.
-        location: Campus de Gualtar, Edifício 7
+          Ainda não sabes para que servem os comandos apt, find e grep? 
+          O CeSIUM tem a solução para ti! Nesta palestra ficarás a conhecer 
+          todos os comandos básicos da shell.
+        location: Campus de Gualtar, Edifício 7 - A2
         registration: http://www.cesium.di.uminho.pt/activities/36
 
   - name: Terça-Feira
@@ -57,36 +60,25 @@ calendar:
         speaker: 
         photo: webext.png
         description: |
-          Descrição interessante.
-        location: Campus de Gualtar, Edifício 7 - 1.01
+          Gostavas de participar num estágio de verão? Então vem 
+          conhecer a experiência de alguns alunos de MiEI! Poderás 
+          perceber quais as principais vantagens, bem como as ferramentas 
+          e os métodos de desenvolvimento de software utilizados pelas empresas.
+        location: TBA
         registration: http://www.cesium.di.uminho.pt/activities/37
-
-      - name: Geek Night
-        tag: geek
-        time: 21h00
-        speaker:
-        photo: geeknight.png
-        description: |
-          Talks pertinentes a informática, amostragem de curiosidades relativas
-          a engenharia e as ciências da computação.
-        location: Bar Juno
-        registration:
 
   - name: Quarta-Feira
     tag: wednesday
     date: 16 de outubro
     events:
-      - name: Torneio de FIFA 19
+      - name: Torneio de FIFA 20
         tag: fifa
-        time: 14h00
-        photo: fifa19.png
+        time: 15h00
+        photo: fifa20.png
         description: |
-          Junta-te a nós para um torneio de FIFA 19, onde existirão várias
-          estações e o vencedor, além de receber uma T-Shirt do CeSIUM, leva
-          para casa uma garrafa de Jeropiga. Durante o torneio, existirá uma
-          Happy Hour com finos a 80 cêntimos para sócios.
-
-          Consulta o regulamento [aqui](assets/docs/2018-09-29_codeweek18_rules_fifa19.pdf).
+          Junta-te a nós para mais um torneio, onde poderás colocar à prova as tuas 
+          capacidades individuais no mais recente jogo da FIFA, FIFA 20. Durante o 
+          torneio, existirá uma Happy Hour com finos a 0,80‎€ para os sócios.
         location: Gamers Academy
         registration: http://www.cesium.di.uminho.pt/activities/38
 
@@ -94,15 +86,28 @@ calendar:
     tag: active
     date: 17 de outubro
     events:
-      - name: Sessão de Estudo de PF
+      - name: Sessão de Estudo de Programação Funcional
         tag: pf
-        time: 16h00
+        time: 16h00 - 18h00
         speaker: 
         photo: gems.png
         description: |
-          Descrição interessante.
-        location: Campus de Gualtar, Edifício 7
+          Se ainda tens dúvidas sobre recursividade, pattern matching 
+          ou qualquer outro tema lecionado na unidade curricular de 
+          Programação Funcional, aparece nesta sessão de estudo.
+        location: TBA
         registration: http://www.cesium.di.uminho.pt/activities/39
+
+      - name: Geek Night  
+        tag: geek
+        time: 21h00
+        speaker:
+        photo: geeknight.png
+        description: |
+          Talks pertinentes sobre os temas mais atuais do mundo da tecnologia 
+          num ambiente descontraído e rodeado por boa companhia.
+        location: Bar Juno
+        registration:
 
   - name: Sexta-Feira
     tag: friday
