@@ -6,7 +6,7 @@ description     : |
   A Code Week é uma iniciativa, organizada pelo CeSIUM, com o objetivo de
   levar literacia digital a toda a gente de uma forma divertida.
 keywords        : [CeSIUM, jekyll, Code Week, Github, Universidade do Minho, Departamento Informática]
-logo            : codeweek-logo-lightred.png
+logo            : codeweek-logo.png
 url             : "https://codeweek.cesium.di.uminho.pt"
 baseurl         :
 
