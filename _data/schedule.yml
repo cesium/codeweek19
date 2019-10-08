@@ -18,7 +18,7 @@ calendar:
         description: |
           O CoderDojo Braga é um movimento aberto e sem fins lucrativos 
           para ensinar jovens dos 7 aos 17 anos a programar.
-        location: gnration
+        location: Campus de Gualtar, Edifício 7
         registration: mailto:info@gnration.pt?subject=[CoderDojo Braga] Interesse em participar na sessão de 20 de Outubro
 
 
@@ -26,17 +26,31 @@ calendar:
     tag: monday
     date: 14 de outubro
     events:
-      - name: Code Combat
+      - name: Code Combat - Sessão 1
         tag: code
-        time: 11h00 - 13h00
+        time: 11h00 - 12h00
         speaker:
         photo: unixshell.png
         description: |
           Competição de programação entre os alunos, de forma lúdica, cujo 
           objetivo é introduzir os alunos à programação imperativa e 
-          orientada aos objetos, usando JavaScript.
+          orientada aos objetos, usando JavaScript. \\
+          Não te esqueças do teu computador.
         location: TBA
-        registration: http://www.cesium.di.uminho.pt/activities/35
+        registration: https://cesium.di.uminho.pt/activities/66
+
+      - name: Code Combat - Sessão 2
+        tag: code
+        time: 12h00 - 13h00
+        speaker:
+        photo: unixshell.png
+        description: |
+          Competição de programação entre os alunos, de forma lúdica, cujo 
+          objetivo é introduzir os alunos à programação imperativa e 
+          orientada aos objetos, usando JavaScript. \\
+          Não te esqueças do teu computador.
+        location: TBA
+        registration: https://cesium.di.uminho.pt/activities/67
 
       - name: Shell Basics
         tag: shell
@@ -46,15 +60,16 @@ calendar:
         description: |
           Ainda não sabes para que servem os comandos apt, find e grep? 
           O CeSIUM tem a solução para ti! Nesta palestra ficarás a conhecer 
-          todos os comandos básicos da shell.
+          todos os comandos básicos da shell.\\
+          Não te esqueças do teu computador.
         location: Campus de Gualtar, Edifício 7 - A2
-        registration: http://www.cesium.di.uminho.pt/activities/36
+        registration: https://cesium.di.uminho.pt/activities/68
 
   - name: Terça-Feira
     tag: tuesday
     date: 15 de outubro
     events:
-      - name: Palestra Estágios Verão
+      - name: Porquê estágios de verão?
         tag: internship
         time: 17h00
         speaker: 
@@ -65,7 +80,7 @@ calendar:
           perceber quais as principais vantagens, bem como as ferramentas 
           e os métodos de desenvolvimento de software utilizados pelas empresas.
         location: TBA
-        registration: http://www.cesium.di.uminho.pt/activities/37
+        registration: https://cesium.di.uminho.pt/activities/69
 
   - name: Quarta-Feira
     tag: wednesday
@@ -80,7 +95,7 @@ calendar:
           capacidades individuais no mais recente jogo da FIFA, FIFA 20. Durante o 
           torneio, existirá uma Happy Hour com finos a 0,80‎€ para os sócios.
         location: Gamers Academy
-        registration: http://www.cesium.di.uminho.pt/activities/38
+        registration: https://cesium.di.uminho.pt/activities/70
 
   - name: Quinta-Feira
     tag: active
@@ -96,7 +111,7 @@ calendar:
           ou qualquer outro tema lecionado na unidade curricular de 
           Programação Funcional, aparece nesta sessão de estudo.
         location: TBA
-        registration: http://www.cesium.di.uminho.pt/activities/39
+        registration: https://cesium.di.uminho.pt/activities/71
 
       - name: Geek Night  
         tag: geek
@@ -107,7 +122,7 @@ calendar:
           Talks pertinentes sobre os temas mais atuais do mundo da tecnologia 
           num ambiente descontraído e rodeado por boa companhia.
         location: Bar Juno
-        registration:
+        registration: https://cesium.di.uminho.pt/activities/72
 
   - name: Sexta-Feira
     tag: friday
