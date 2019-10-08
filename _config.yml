@@ -34,6 +34,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - CHANGELOG.md
+  - vendor
 
 # Plugins
 plugins:

@@ -1,0 +1,27 @@
+dist: bionic
+
+language: ruby
+
+rvm:
+  - 2.6.5
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+    - firefox-geckodriver
+
+sudo: false
+
+cache:
+  bundler: true
+  directories:
+    - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+
+script:
+  - bundle exec rake test
+  - bundle exec rspec
