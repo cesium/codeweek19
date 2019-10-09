@@ -16,7 +16,7 @@ calendar:
         speaker:
         photo: coderdojo.png
         description: |
-          O CoderDojo Braga é um movimento aberto e sem fins lucrativos 
+          O CoderDojo Braga é um movimento aberto e sem fins lucrativos
           para ensinar jovens dos 7 aos 17 anos a programar.
         location: Campus de Gualtar, Edifício 7
         registration: mailto:info@gnration.pt?subject=[CoderDojo Braga] Interesse em participar na sessão de 20 de Outubro
@@ -32,11 +32,11 @@ calendar:
         speaker:
         photo: unixshell.png
         description: |
-          Competição de programação entre os alunos, de forma lúdica, cujo 
-          objetivo é introduzir os alunos à programação imperativa e 
+          Competição de programação entre os alunos, de forma lúdica, cujo
+          objetivo é introduzir os alunos à programação imperativa e
           orientada aos objetos, usando JavaScript. \\
           Não te esqueças do teu computador.
-        location: To Be Announced 
+        location: To Be Announced
         registration: https://cesium.di.uminho.pt/activities/66
 
       - name: Code Combat - Sessão 2
@@ -45,21 +45,21 @@ calendar:
         speaker:
         photo: unixshell.png
         description: |
-          Competição de programação entre os alunos, de forma lúdica, cujo 
-          objetivo é introduzir os alunos à programação imperativa e 
+          Competição de programação entre os alunos, de forma lúdica, cujo
+          objetivo é introduzir os alunos à programação imperativa e
           orientada aos objetos, usando JavaScript. \\
           Não te esqueças do teu computador.
-        location: To Be Announced 
+        location: To Be Announced
         registration: https://cesium.di.uminho.pt/activities/67
 
       - name: Shell Basics
         tag: shell
-        time: 17h00 
+        time: 17h00
         speaker: José João Almeida
         photo: unixshell.png
         description: |
-          Ainda não sabes para que servem os comandos apt, find e grep? 
-          O CeSIUM tem a solução para ti! Nesta palestra ficarás a conhecer 
+          Ainda não sabes para que servem os comandos apt, find e grep?
+          O CeSIUM tem a solução para ti! Nesta palestra ficarás a conhecer
           todos os comandos básicos da shell.\\
           Não te esqueças do teu computador.
         location: Campus de Gualtar, Edifício 7 - A2
@@ -72,14 +72,14 @@ calendar:
       - name: Porquê estágios de verão?
         tag: internship
         time: 17h00
-        speaker: 
+        speaker:
         photo: webext.png
         description: |
-          Gostavas de participar num estágio de verão? Então vem 
-          conhecer a experiência de alguns alunos de MiEI! Poderás 
-          perceber quais as principais vantagens, bem como as ferramentas 
+          Gostavas de participar num estágio de verão? Então vem
+          conhecer a experiência de alguns alunos de MiEI! Poderás
+          perceber quais as principais vantagens, bem como as ferramentas
           e os métodos de desenvolvimento de software utilizados pelas empresas.
-        location: To Be Announced 
+        location: To Be Announced
         registration: https://cesium.di.uminho.pt/activities/69
 
   - name: Quarta-Feira
@@ -91,35 +91,35 @@ calendar:
         time: 15h00
         photo: fifa20.png
         description: |
-          Junta-te a nós para mais um torneio, onde poderás colocar à prova as tuas 
-          capacidades individuais no mais recente jogo da FIFA, FIFA 20. Durante o 
+          Junta-te a nós para mais um torneio, onde poderás colocar à prova as tuas
+          capacidades individuais no mais recente jogo da FIFA, FIFA 20. Durante o
           torneio, existirá uma Happy Hour com finos a 0,80‎€ para os sócios.
         location: Gamers Academy
         registration: https://cesium.di.uminho.pt/activities/70
 
   - name: Quinta-Feira
-    tag: active
+    tag: thursday
     date: 17 de outubro
     events:
       - name: Sessão de Estudo de Programação Funcional
         tag: pf
         time: 16h00 - 18h00
-        speaker: 
+        speaker:
         photo: gems.png
         description: |
-          Se ainda tens dúvidas sobre recursividade, pattern matching 
-          ou qualquer outro tema lecionado na unidade curricular de 
+          Se ainda tens dúvidas sobre recursividade, pattern matching
+          ou qualquer outro tema lecionado na unidade curricular de
           Programação Funcional, aparece nesta sessão de estudo.
-        location: To Be Announced 
+        location: To Be Announced
         registration: https://cesium.di.uminho.pt/activities/71
 
-      - name: Geek Night  
+      - name: Geek Night
         tag: geek
         time: 21h00
         speaker:
         photo: geeknight.png
         description: |
-          Talks pertinentes sobre os temas mais atuais do mundo da tecnologia 
+          Talks pertinentes sobre os temas mais atuais do mundo da tecnologia
           num ambiente descontraído e rodeado por boa companhia.
         location: Bar Juno
         registration: https://cesium.di.uminho.pt/activities/72
