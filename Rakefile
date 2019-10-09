@@ -7,7 +7,8 @@ task :build do
   Jekyll::Commands::Build.process(profile: true)
 end
 
-task :test => :build do
+task :test => [:clean, :build] do
+  puts 'Running view tests...'.bold
   opts = {
     empty_alt_ignore: true,
     url_ignore: [
