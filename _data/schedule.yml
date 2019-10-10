@@ -36,7 +36,7 @@ calendar:
           objetivo é introduzir os alunos à programação imperativa e 
           orientada aos objetos, usando JavaScript. \\
           Não te esqueças do teu computador.
-        location: To Be Announced 
+        location: Campus de Gualtar, Edifício 7 - A2
         registration: https://cesium.di.uminho.pt/activities/66
 
       - name: Code Combat - Sessão 2
@@ -49,13 +49,13 @@ calendar:
           objetivo é introduzir os alunos à programação imperativa e 
           orientada aos objetos, usando JavaScript. \\
           Não te esqueças do teu computador.
-        location: To Be Announced 
+        location: Campus de Gualtar, Edifício 7 - A2
         registration: https://cesium.di.uminho.pt/activities/67
 
       - name: Shell Basics
         tag: shell
         time: 17h00 
-        speaker: José João Almeida
+        speaker: Prof. José João Almeida
         photo: unixshell.png
         description: |
           Ainda não sabes para que servem os comandos apt, find e grep? 
@@ -79,7 +79,7 @@ calendar:
           conhecer a experiência de alguns alunos de MiEI! Poderás 
           perceber quais as principais vantagens, bem como as ferramentas 
           e os métodos de desenvolvimento de software utilizados pelas empresas.
-        location: To Be Announced 
+        location: Campus de Gualtar, Edifício 7 - A2
         registration: https://cesium.di.uminho.pt/activities/69
 
   - name: Quarta-Feira
