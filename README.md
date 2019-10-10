@@ -15,7 +15,7 @@ Code Week at [University of Minho][uminho] is an initiative, organized by
 [CeSIUM][cesium], which aims to bring coding and digital literacy to everybody
 in a fun and engaging way.
 
-## Getting Started
+## Getting Started [![Build Status](https://travis-ci.com/cesium/codeweek19.svg?branch=master)](https://travis-ci.com/cesium/codeweek19)
 
 These instructions will get you a copy of the project up and running on your
 local machine for development and testing purposes.
@@ -32,7 +32,7 @@ local machine for development and testing purposes.
 ### Development
 
 1. `cd <location of codeweek19 repo>`
-2. `jekyll serve`
+2. `bundle exec jekyll serve`
 3. Navigate to <http://localhost:4000>
 
 ## Contributing
@@ -45,4 +45,3 @@ the process for submitting pull requests to us.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt)
 file for details.
-

@@ -98,3 +98,21 @@ function carousel() {
     x[slideIndex-1].style.display = "block";
     setTimeout(carousel, 2000); // Change image every 2 seconds
 }
+
+/* Get Active Day
+  ========================================================*/
+
+let begin = new Date(2019, 10, 14);
+let end = new Date(2019, 10, 17);
+let today = new Date();
+let days = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+let weekday;
+if(today < begin) {
+  weekday = "saturday"
+} else if(today > end) {
+  weekday = "thursday"
+} else {
+  weekday = days[today.getDay()]
+}
+document.getElementById(weekday).classList.add("active", "show");
+document.getElementById(weekday + "-tab").classList.add("active", "show");
