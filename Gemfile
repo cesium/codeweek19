@@ -13,5 +13,5 @@ group :development, :test do
   gem 'rack-jekyll'
   gem 'pry'
   gem 'html-proofer'
-  gem 'rake', '~> 11.2', '>= 11.2.2'
+  gem 'rake', '~> 12.3'
 end
