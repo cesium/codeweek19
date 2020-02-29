@@ -84,7 +84,7 @@ GEM
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rainbow (3.0.0)
-    rake (11.3.0)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -129,7 +129,7 @@ DEPENDENCIES
   jekyll-seo-tag
   pry
   rack-jekyll
-  rake (~> 11.2, >= 11.2.2)
+  rake (~> 12.3)
   rspec
   selenium-webdriver
 
